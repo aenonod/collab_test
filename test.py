@@ -1,3 +1,3 @@
 print("pogi ko")
 
-print("asdsadkjsadlasjdasljd")
+print("WEEHHH DI NGAAAA")
