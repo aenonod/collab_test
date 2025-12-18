@@ -2,4 +2,4 @@ print("pogi ko")
 
 print("WEEHHH DI NGAAAA")
 
-print("GOING BACK TO HONOLULU JUST TO GET THAT")
+print("sorry guys gagalawin ko lang kse gumagawa ako turotial")
